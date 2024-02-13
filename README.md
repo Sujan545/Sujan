@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm sujan khatiwoda</h1>
 <h3 align="center">A passionate developer from Nepal</h3>
+<img align="right" alt="photo" width="350" src="https://camo.githubusercontent.com/10e567e4a2ae14be67810ba04c126e9032b6b408ffa6c97b87974e371dd88c22/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3431363631302f73637265656e73686f74732f343830313130352f636f64696e675f6465736b5f666c61745f766563746f725f75695f75785f64657369676e5f696c6c757374726174696f6e5f6d6f74696f6e5f616e696d6174696f6e5f676966322e676966"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujan545&label=Profile%20views&color=0e75b6&style=flat" alt="sujan545" /> </p>
 
